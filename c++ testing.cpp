@@ -16,10 +16,5 @@ void ln(){
   delay(300);
 }
 void loop(){
-  m();
-  a();
-  r();
-  i();
-  v();
   delay(1000);
 }
